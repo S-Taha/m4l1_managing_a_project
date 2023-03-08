@@ -1,13 +1,13 @@
 Crimson
 Orange
-Green
-Cyan
+blue
+cyan
 Yellow
-Ivory
+charcoal
 Khaki
 Coral
 Silver
 Fuchsia
-Gray
+purple
 Brown
 Red
